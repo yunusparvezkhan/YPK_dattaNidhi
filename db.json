@@ -1,9 +1,31 @@
 {
-    "about": {
-        "widget": {
-            "para": "I am a Bharatiya scholar. I'm a Full Stack Web Developer, UI/UX Designer, YouTuber, Filmmaker. I have an adventurous life and a lots of experiences. I love to research things by digging deep onto the topics. My fields of expertise are Web Development, Network Architecture, Computer Architecture, Blockchain, Web-3 etc. And I'm also pretty much into Physics, Psychology, Philosophy, Geo-Politics, Economics, Socialism.",
-            "image": ""
-        },
-        "page": {}
+    "aboutWidget": {
+        "paragraph": "I am a Bharatiya scholar. I'm a Full Stack Web Developer, UI/UX Designer, YouTuber, Filmmaker. I have an adventurous life and a lots of experiences. I love to research things by digging deep onto the topics. My fields of expertise are Web Development, Network Architecture, Computer Architecture, Blockchain, Web-3 etc. And I'm also pretty much into Physics, Psychology, Philosophy, Geo-Politics, Economics, Socialism.",
+        "images": [
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20190000_01.jpg",
+                "alt": "Yunus Parvez Khan"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20220922_01.jpg",
+                "alt": "Yunus Parvez Khan"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230202_01.jpg",
+                "alt": "Yunus Parvez Khan"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_01.jpg",
+                "alt": "Yunus Parvez Khan"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_03.jpg",
+                "alt": "Yunus Parvez Khan"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_04.jpg",
+                "alt": "Yunus Parvez Khan"
+            }
+        ]
     }
 }
