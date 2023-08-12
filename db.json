@@ -28,19 +28,51 @@
             }
         ]
     },
-    "blogsWidget": {
-        "title": "Slice method in JavaScript",
-        "thumbnailTitle": "Slice method in JS",
-        "link": "https://github.com/ypkorg/slice-method-in-js",
-        "image": {
-            "link": "https://github.com/ypkorg/slice-method-in-js/raw/masterdoc/Slice%20method%202.png",
-            "alt": "Slice method in Javascript by Yunus Parvez Khan"
+    "blogsWidget": [
+        {
+            "title": "Slice method in JavaScript",
+            "thumbnailTitle": "Slice method in JS",
+            "link": "https://github.com/ypkorg/slice-method-in-js",
+            "image": {
+                "link": "https://github.com/ypkorg/slice-method-in-js/raw/masterdoc/Slice%20method%202.png",
+                "alt": "Slice method in Javascript by Yunus Parvez Khan"
+            },
+            "date": {
+                "day": 13,
+                "month": 5,
+                "year": 2023
+            },
+            "topic": "JavaScript Programming"
         },
-        "date": {
-            "day": 13,
-            "month": 5,
-            "year": 2023
+        {
+            "title": "Slice method in JavaScript",
+            "thumbnailTitle": "Slice method in JS",
+            "link": "https://github.com/ypkorg/slice-method-in-js",
+            "image": {
+                "link": "https://github.com/ypkorg/slice-method-in-js/raw/masterdoc/Slice%20method%202.png",
+                "alt": "Slice method in Javascript by Yunus Parvez Khan"
+            },
+            "date": {
+                "day": 13,
+                "month": 5,
+                "year": 2023
+            },
+            "topic": "JavaScript Programming"
         },
-        "topic": "JavaScript Programming"
-    }
+        {
+            "title": "Slice method in JavaScript",
+            "thumbnailTitle": "Slice method in JS",
+            "link": "https://github.com/ypkorg/slice-method-in-js",
+            "image": {
+                "link": "https://github.com/ypkorg/slice-method-in-js/raw/masterdoc/Slice%20method%202.png",
+                "alt": "Slice method in Javascript by Yunus Parvez Khan"
+            },
+            "date": {
+                "day": 13,
+                "month": 5,
+                "year": 2023
+            },
+            "topic": "JavaScript Programming"
+        }
+    ]
 }
