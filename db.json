@@ -78,6 +78,7 @@
     "projectsWidget": [
         {
             "id": "1",
+            "uniqueKey": "adprv",
             "title": "adprava",
             "url": "https://github.com/yunusparvezkhan/adprava",
             "subtitle": "A beginner's ReactJS project containing 6 pages and navigation.",
@@ -85,6 +86,7 @@
         },
         {
             "id": "2",
+            "uniqueKey": "widapp",
             "title": "widget-app",
             "url": "https://github.com/yunusparvezkhan/widget-app",
             "subtitle": "Widget App is a very simple practice app of React Hooks systems. The app will contain four widgets, namely a Search, Accordion, Dropdown, and a Translate widget. The widgets will be accessible from the nav bar. This is a application practice of ReactJS hooks system and functional programming.",
@@ -92,6 +94,7 @@
         },
         {
             "id": "3",
+            "uniqueKey": "ypkold",
             "title": "yunuspk-old",
             "url": "https://github.com/yunusparvezkhan/yunuspk-old",
             "subtitle": "This is a personal website that I am creating to build my portfolio and to show about myself",
@@ -99,6 +102,7 @@
         },
         {
             "id": "4",
+            "uniqueKey": "tskrinreact",
             "title": "tasker-in-react",
             "url": "https://github.com/yunusparvezkhan/tasker-in-react",
             "subtitle": "A lab project for practicing handling forms in reactjs and react states.",
@@ -106,6 +110,7 @@
         },
         {
             "id": "5",
+            "uniqueKey": "vidsfetapp",
             "title": "vids-fetching-app",
             "url": "https://github.com/yunusparvezkhan/vids-fetching-app",
             "subtitle": "vids-fetching-app is essentially an app to fetch videos from a web API according to the user's query. Then the app is responsible for showing a list of recommended videos, and a video player. Use the app in your React Development to avoid YouTube ads",
@@ -113,6 +118,7 @@
         },
         {
             "id": "6",
+            "uniqueKey": "picsfetapp",
             "title": "pics-fetching-app",
             "url": "https://github.com/yunusparvezkhan/pics-fetching-app",
             "subtitle": "Pics Fetching App is a simple web app using reactjs, which has a input field to take user input, and the app returns images that matches the input quired by the user. It is a application practice of Fetching Data, API, Handling User Input in React JS",
@@ -120,6 +126,7 @@
         },
         {
             "id": "7",
+            "uniqueKey": "ulbm",
             "title": "ulbumy",
             "url": "https://github.com/yunusparvezkhan/ulbumy",
             "subtitle": "A project for creating photo albums under different users for learning/practicing API with async thunks.",
