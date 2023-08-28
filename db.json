@@ -1,29 +1,29 @@
 {
     "aboutWidget": {
-        "paragraph": "I am a Bharatiya scholar. I'm a Full Stack Web Developer, UI/UX Designer, YouTuber, Filmmaker. I have an adventurous life and a lots of experiences. I love to research things by digging deep onto the topics. My fields of expertise are Web Development, Network Architecture, Computer Architecture, Blockchain, Web-3 etc. And I'm also pretty much into Physics, Psychology, Philosophy, Geo-Politics, Economics, Socialism.",
+        "paragraph": "I am a Bharatiya scholar. I'm a Full Stack Web Developer, UI/UX Designer, YouTuber, Filmmaker. I have an adventurous life and a lots of experiences. I love to research things by digging deep onto the topics. My fields of expertise are Web Development, Network Architecture, Computer Architecture, Blockchain, Web-3 etc. And I'm also pretty much into Physics, Psychology, Philosophy, Geo-Politics, Economics, Socio-Capitalism (aka Social Capitalism).",
         "images": [
             {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20190000_01.jpg",
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20230202_01.jpg",
+                "alt": "Yunus Parvez Khan and Arpita Das, Yunus and Arpita"
+            },
+            {
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20190000_01.jpg",
                 "alt": "Yunus Parvez Khan"
             },
             {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20220922_01.jpg",
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20220922_01.jpg",
                 "alt": "Yunus Parvez Khan"
             },
             {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230202_01.jpg",
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20230509_01.jpg",
                 "alt": "Yunus Parvez Khan"
             },
             {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_01.jpg",
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20230509_03.jpg",
                 "alt": "Yunus Parvez Khan"
             },
             {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_03.jpg",
-                "alt": "Yunus Parvez Khan"
-            },
-            {
-                "link": "https://mediabase.netlify.app/ypk/photos/selfies/20230509_04.jpg",
+                "link": "https://mediabase.netlify.app/ypk/photos/selfies/500px/20230509_04.jpg",
                 "alt": "Yunus Parvez Khan"
             }
         ]
